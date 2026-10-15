@@ -1,181 +1,112 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b8c32,55:3d6b1f,56:8b5a2b,100:6b4423&height=200&section=header&text=MANI&fontSize=90&fontColor=ffffff&fontAlignY=42&desc=⛏️%20Nouveau%20monde%20chargé%20·%20Biome%20:%20Cerisiers%20🌸&descSize=20&descAlignY=72&descColor=ffd6ec" width="100%" />
-</p>
+<!-- ============================================================
+     🌸 CHERRY GROVE EDITION — remplace TON_USERNAME partout
+     ============================================================ -->
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=2600&pause=900&color=FFD6EC&background=00000000&center=true&vCenter=true&width=620&lines=Génération+du+monde...+▰▰▰▰▰▰▰▱+87%25;Mani+a+rejoint+la+partie;Mode+de+jeu+:+Créatif+🎨;Quête+:+crafter+mon+propre+jeu+🎮;Mani+a+fait+un+bug+et+a+respawn+💖" alt="typing" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/❤️_VIE-10%2F10-e74c3c?style=flat-square&labelColor=2b2b2b" />
-  <img src="https://img.shields.io/badge/🍗_FAIM-café_requis-c8a165?style=flat-square&labelColor=2b2b2b" />
-  <img src="https://img.shields.io/badge/✦_XP-NIVEAU_12-7ec850?style=flat-square&labelColor=2b2b2b" />
-  <img src="https://img.shields.io/badge/🌸_BIOME-Cerisiers-f9a8d4?style=flat-square&labelColor=2b2b2b" />
-  <img src="https://komarev.com/ghpvc/?username=TON_PSEUDO&label=JOUEURS%20CONNECTÉS&color=7ec850&style=flat-square&labelColor=2b2b2b" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2B1B2E,50:D45D8C,100:F4A6C8&text=AMANI&fontColor=FFF5FA&fontSize=72&fontAlignY=38&desc=~%20Cherry%20Grove%20Developer%20~&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-<br>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=900&color=F4A6C8&center=true&vCenter=true&width=620&lines=%3E+Spawn+point+set...+%F0%9F%8C%B8;%3E+Loading+world%3A+Cherry+Grove;%3E+Crafting+code+block+by+block+%E2%9B%8F%EF%B8%8F;%3E+Achievement+get%3A+Hello+World!" alt="typing"/>
+</a>
 
-<table align="center">
-<tr>
-<td width="55%" valign="top">
+<br/>
 
-### 🧑‍🌾 `/profil Mani`
+<img src="https://img.shields.io/badge/BIOME-Cherry%20Grove-F4A6C8?style=for-the-badge&labelColor=2B1B2E"/>
+<img src="https://img.shields.io/badge/MODE-Survival%20Coder-7FB069?style=for-the-badge&labelColor=2B1B2E"/>
+<img src="https://komarev.com/ghpvc/?username=TON_USERNAME&label=VISITEURS&color=D45D8C&style=for-the-badge&labelColor=2B1B2E"/>
 
-Salut ! Moi c'est **Mani** 🌸
+</div>
 
-Je construis des sites et des jeux **bloc par bloc** : une ligne de code, puis une autre, jusqu'à ce que ça tienne debout.
+<br/>
 
-Étudiante en **BTS GPME** le jour, dev web la nuit. Mon mode préféré : **Créatif**. Mon biome préféré : **les cerisiers**, évidemment 🌸
+## 🌸 `/whoami`
 
-</td>
-<td width="45%" valign="top">
-
-### 📦 `/stats`
-
-```diff
-+ ⛏️ MINAGE DE CODE  ■■■■■■■■■■ MAX
-+ 🎨 CONSTRUCTION    ■■■■■■■■■□  90
-+ 🎮 GAMING          ■■■■■■■■■□  90
-+ 🧠 REDSTONE        ■■■■■■■■□□  80
-- 😴 DODO            ■■□□□□□□□□  !!
+```yaml
+player:       Amani
+class:        Développeuse · Builder de pixels
+biome:        Cherry Grove 🌸
+current_quest: transformer des idées en mondes interactifs
+inventory:    [café ☕, playlist lo-fi 🎧, beaucoup trop d'onglets ouverts]
+fun_fact:     je préfère poser des blocs de cerisier que de la pierre
 ```
 
-</td>
-</tr>
-</table>
+<br/>
 
----
+## 🎒 `Hotbar`
 
-<h2 align="center">🎒 INVENTAIRE</h2>
+<div align="center">
 
-<p align="center"><i>Ma barre d'objets, toujours à portée de main</i></p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python&theme=dark&perline=7" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,tailwind,vite,linux&theme=dark&perline=7" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark&perline=7" />
-</p>
+<sub>✦ slot 1 → 14 · outils toujours enchantés ✦</sub>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/⛏️_Pioche-Shopify-7ec850?style=for-the-badge&labelColor=3d6b1f" />
-  <img src="https://img.shields.io/badge/🧪_Potion-Liquid-c084fc?style=for-the-badge&labelColor=5b2a86" />
-  <img src="https://img.shields.io/badge/✨_Enchantement-IA_créative-f9a8d4?style=for-the-badge&labelColor=9d174d" />
-</p>
+</div>
 
----
+<br/>
 
-<h2 align="center">🛠️ TABLE DE CRAFT</h2>
+## ⛏️ `Quêtes accomplies`
 
-<p align="center"><i>Ce que je suis en train de fabriquer</i></p>
+<div align="center">
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+| | Quête | Loot |
+|:-:|:--|:--|
+| 🗂️ | **[Taskora](https://github.com/TON_USERNAME/Taskora)** | Gestion de tâches — organiser son monde un bloc à la fois |
+| 🟩 | **[Portfolio Minecraft](https://github.com/TON_USERNAME/Portfolio-Minecraft)** | Portfolio pixel-art, parce que pourquoi pas |
+| ⛵ | **[Site Voiles](https://github.com/TON_USERNAME/site-voiles)** | Site vitrine sur le thème de la voile |
+| 🚗 | **[Autonomous Car](https://github.com/TON_USERNAME/Autonomous_car_TP)** | Simulateur de voiture autonome |
 
-### 🎮 Mon jeu
-**CONSTRUCTION PRINCIPALE**
+</div>
 
-`JavaScript` + `HTML` + `CSS`
-**⬇️**
-un jeu jouable, avec ses mécaniques et son univers
+<br/>
 
-`■■■■□□□□□□ 40%`
+## 💎 `Statistiques du monde`
 
-</td>
-<td align="center" width="50%">
+<div align="center">
 
-### 🛍️ Boutique en ligne
-**CONSTRUCTION SECONDAIRE**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&hide_border=true&bg_color=2B1B2E&title_color=F4A6C8&icon_color=7FB069&text_color=FFF5FA&ring_color=D45D8C&custom_title=XP%20%26%20Achievements" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&hide_border=true&bg_color=2B1B2E&title_color=F4A6C8&text_color=FFF5FA&custom_title=Enchantements" />
 
-`Shopify` + `Liquid` + `CSS` + `JS`
-**⬇️**
-une boutique sur-mesure qui donne envie d'acheter
+<img width="85%" src="https://streak-stats.demolab.com?user=TON_USERNAME&hide_border=true&background=2B1B2E&ring=D45D8C&fire=F4A6C8&currStreakLabel=F4A6C8&sideLabels=FFF5FA&currStreakNum=FFF5FA&sideNums=FFF5FA&dates=B8A1B5&stroke=4A3149" />
 
-`■■■■■■□□□□ 60%`
+</div>
 
-</td>
-</tr>
-<tr>
-<td align="center">
+<br/>
 
-### 🐍 Python
-**FARM D'XP**
+## 🏆 `Advancements`
 
-Petits scripts et exos concrets pour monter de niveau.
+<div align="center">
 
-`■■■□□□□□□□`
+<img src="https://github-profile-trophy.vercel.app/?username=TON_USERNAME&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
 
-</td>
-<td align="center">
+</div>
 
-### 🏰 Portfolio
-**PLAN EN COURS**
+<br/>
 
-Les fondations sont posées.
+## 🐝 `Activité de la ruche`
 
-`🔒 bientôt`
+<div align="center">
 
-</td>
-</tr>
-</table>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TON_USERNAME&bg_color=2B1B2E&color=F4A6C8&line=D45D8C&point=7FB069&area=true&area_color=D45D8C&hide_border=true&custom_title=Blocs%20pos%C3%A9s%20ce%20mois-ci" />
 
----
+</div>
 
-<h2 align="center">💀 GROTTE INTERDITE 💀</h2>
+<br/>
 
-<p align="center"><i>Tout au fond de la mine, j'ai retrouvé mon tout premier code…</i></p>
+## 📜 `Livre & plume`
 
-<details>
-<summary align="center"><b>🔦 Descendre dans la grotte (à vos risques et périls)</b></summary>
+<div align="center">
 
-<br>
+<a href="mailto:TON_EMAIL"><img src="https://img.shields.io/badge/Email-F4A6C8?style=for-the-badge&logo=gmail&logoColor=2B1B2E"/></a>
+<a href="https://linkedin.com/in/TON_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-D45D8C?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://TON_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-7FB069?style=for-the-badge&logo=minecraft&logoColor=white"/></a>
 
-```js
-// coffre_trouve_niveau_-64.js
-// ⚠️ ne pas casser ce bloc, tout le monde s'effondre
+<br/><br/>
 
-var a = true
-if (a == true) {
-  if (a != false) {
-    if (!!a === !!!false) {
-      console.log("ça marche ???")            // non.
-      setTimeout(() => location.reload(), 0)  // boucle infinie, comme un spawner
-    }
-  }
-}
-// TODO : comprendre ce que j'ai écrit
-```
+<sub>🌸 &nbsp; <i>« Chaque grand monde a commencé par un seul bloc. »</i> &nbsp; 🌸</sub>
 
-<p align="center">
-  <img src="./assets/protege-tes-yeux.jpg" width="300" alt="chat protégé" />
-</p>
+</div>
 
-<p align="center"><b>Le chat a perdu 3 cœurs rien qu'en l'apercevant. Il a fallu lui cacher les yeux. 🙈</b></p>
-
-</details>
-
----
-
-<h2 align="center">🏆 PROGRÈS DÉBLOQUÉS</h2>
-
-<table align="center">
-<tr><td>🐛</td><td><b>Exterminatrice</b><br><sub>Corriger un bug sans comprendre comment</sub></td></tr>
-<tr><td>🌙</td><td><b>Pas besoin de lit</b><br><sub>Coder jusqu'à 3h du mat</sub></td></tr>
-<tr><td>🎬</td><td><b>Réalisatrice IA</b><br><sub>Générer des vidéos cinématiques avec l'IA</sub></td></tr>
-<tr><td>📊</td><td><b>Craft improbable</b><br><sub>Fabriquer une présentation en JavaScript au lieu de PowerPoint</sub></td></tr>
-<tr><td>🔒</td><td><b>???</b><br><sub>Progrès secret… continue de jouer</sub></td></tr>
-</table>
-
----
-
-<h2 align="center">💬 REJOINDRE MON SERVEUR</h2>
-
-<p align="center">
-  <a href="mailto:TON_EMAIL"><img src="https://img.shields.io/badge/📨_Envoyer_un_message-7ec850?style=for-the-badge&labelColor=3d6b1f" /></a>
-  <a href="https://www.linkedin.com/in/TON_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-f9a8d4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=9d174d" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6b4423,50:8b5a2b,100:6b4423&height=70&section=footer&text=💾%20Sauvegarde%20du%20monde...%20terminée&fontSize=20&fontColor=ffd6ec&fontAlignY=55" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F4A6C8,50:D45D8C,100:2B1B2E" width="100%"/>
