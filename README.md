@@ -1,131 +1,181 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0b2e,50:9d174d,100:ff4fa3&height=240&section=header&text=MANI&fontSize=100&fontColor=ffd6ec&animation=twinkling&fontAlignY=42&desc=PLAYER%201%20·%20READY%20?&descSize=22&descAlignY=65&descColor=ff9ccf" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b8c32,55:3d6b1f,56:8b5a2b,100:6b4423&height=200&section=header&text=MANI&fontSize=90&fontColor=ffffff&fontAlignY=42&desc=⛏️%20Nouveau%20monde%20chargé%20·%20Biome%20:%20Cerisiers%20🌸&descSize=20&descAlignY=72&descColor=ffd6ec" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=FF4FA3&center=true&vCenter=true&width=650&lines=INSERT+COIN+TO+CONTINUE...;LOADING+MANI.EXE+▰▰▰▰▰▰▱▱+80%25;NEW+QUEST:+CODER+UN+JEU+🎮;SIDE+QUEST:+OUVRIR+UNE+BOUTIQUE+🛍️;GAME+OVER%3F+NAH.+RESPAWN+💖" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=2600&pause=900&color=FFD6EC&background=00000000&center=true&vCenter=true&width=620&lines=Génération+du+monde...+▰▰▰▰▰▰▰▱+87%25;Mani+a+rejoint+la+partie;Mode+de+jeu+:+Créatif+🎨;Quête+:+crafter+mon+propre+jeu+🎮;Mani+a+fait+un+bug+et+a+respawn+💖" alt="typing" />
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/❤️_VIE-10%2F10-e74c3c?style=flat-square&labelColor=2b2b2b" />
+  <img src="https://img.shields.io/badge/🍗_FAIM-café_requis-c8a165?style=flat-square&labelColor=2b2b2b" />
+  <img src="https://img.shields.io/badge/✦_XP-NIVEAU_12-7ec850?style=flat-square&labelColor=2b2b2b" />
+  <img src="https://img.shields.io/badge/🌸_BIOME-Cerisiers-f9a8d4?style=flat-square&labelColor=2b2b2b" />
+  <img src="https://komarev.com/ghpvc/?username=TON_PSEUDO&label=JOUEURS%20CONNECTÉS&color=7ec850&style=flat-square&labelColor=2b2b2b" />
+</p>
 
-## 👾 Fiche personnage
+<br>
+
+<table align="center">
+<tr>
+<td width="55%" valign="top">
+
+### 🧑‍🌾 `/profil Mani`
+
+Salut ! Moi c'est **Mani** 🌸
+
+Je construis des sites et des jeux **bloc par bloc** : une ligne de code, puis une autre, jusqu'à ce que ça tienne debout.
+
+Étudiante en **BTS GPME** le jour, dev web la nuit. Mon mode préféré : **Créatif**. Mon biome préféré : **les cerisiers**, évidemment 🌸
+
+</td>
+<td width="45%" valign="top">
+
+### 📦 `/stats`
 
 ```diff
-+ NOM ............ Mani
-+ CLASSE ......... Dev web (mage du front 🪄)
-+ GUILDE ......... BTS GPME
-+ NIVEAU ......... 12 — en pleine montée d'XP
-+ ALIGNEMENT ..... Chaotique créative
-- FAIBLESSE ...... Les bugs qui apparaissent à 2h du mat
++ ⛏️ MINAGE DE CODE  ■■■■■■■■■■ MAX
++ 🎨 CONSTRUCTION    ■■■■■■■■■□  90
++ 🎮 GAMING          ■■■■■■■■■□  90
++ 🧠 REDSTONE        ■■■■■■■■□□  80
+- 😴 DODO            ■■□□□□□□□□  !!
 ```
 
-| 🎯 STAT | ⚡ JAUGE |
-|:---|:---|
-| 💻 Passion du code | `▰▰▰▰▰▰▰▰▰▰` MAX |
-| 🎨 Sens du design | `▰▰▰▰▰▰▰▰▰▱` 90 |
-| 🎮 Gaming | `▰▰▰▰▰▰▰▰▰▱` 90 |
-| 🧠 Débrouillardise | `▰▰▰▰▰▰▰▰▱▱` 80 |
-| 😴 Sommeil | `▰▰▱▱▱▱▱▱▱▱` critique |
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎒 Inventaire
+<h2 align="center">🎒 INVENTAIRE</h2>
+
+<p align="center"><i>Ma barre d'objets, toujours à portée de main</i></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark&perline=7" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🗡️_Shopify-ff4fa3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🧪_Liquid-c026d3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔮_IA_créative-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/☕_Potion_de_café-x99-1a0b2e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⛏️_Pioche-Shopify-7ec850?style=for-the-badge&labelColor=3d6b1f" />
+  <img src="https://img.shields.io/badge/🧪_Potion-Liquid-c084fc?style=for-the-badge&labelColor=5b2a86" />
+  <img src="https://img.shields.io/badge/✨_Enchantement-IA_créative-f9a8d4?style=for-the-badge&labelColor=9d174d" />
 </p>
 
 ---
 
-## 🗺️ Journal de quêtes
+<h2 align="center">🛠️ TABLE DE CRAFT</h2>
 
-### 🎮 QUÊTE PRINCIPALE — Mon jeu
-`[▰▰▰▰▱▱▱▱▱▱] en cours`
+<p align="center"><i>Ce que je suis en train de fabriquer</i></p>
 
-Je développe mon propre jeu. Mécaniques, interactions, univers visuel : c'est le projet où je m'éclate le plus, et celui qui me fait gagner le plus d'XP.
-**Récompense :** un jeu jouable + +500 XP en logique 🧠
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-### 🛍️ QUÊTE SECONDAIRE — Boutique e-commerce
-`[▰▰▰▰▰▰▱▱▱▱] en cours`
+### 🎮 Mon jeu
+**CONSTRUCTION PRINCIPALE**
 
-Une boutique en ligne construite à la main : pages produits, collections, sections sur-mesure et un design qui donne envie de cliquer sur « ajouter au panier ».
-**Récompense :** compétence *Business + Code* débloquée 💸
+`JavaScript` + `HTML` + `CSS`
+**⬇️**
+un jeu jouable, avec ses mécaniques et son univers
 
-### 🐍 QUÊTE D'ENTRAÎNEMENT — Python
-`[▰▰▰▱▱▱▱▱▱▱] farm d'XP`
+`■■■■□□□□□□ 40%`
 
-Exos concrets (logs serveur, petits scripts) pour monter de niveau.
+</td>
+<td align="center" width="50%">
 
-### ✨ QUÊTE À DÉBLOQUER — Portfolio
-`[🔒] bientôt`
+### 🛍️ Boutique en ligne
+**CONSTRUCTION SECONDAIRE**
+
+`Shopify` + `Liquid` + `CSS` + `JS`
+**⬇️**
+une boutique sur-mesure qui donne envie d'acheter
+
+`■■■■■■□□□□ 60%`
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 🐍 Python
+**FARM D'XP**
+
+Petits scripts et exos concrets pour monter de niveau.
+
+`■■■□□□□□□□`
+
+</td>
+<td align="center">
+
+### 🏰 Portfolio
+**PLAN EN COURS**
+
+Les fondations sont posées.
+
+`🔒 bientôt`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚠️ ZONE INTERDITE
+<h2 align="center">💀 GROTTE INTERDITE 💀</h2>
 
-<p align="center"><b>🚨 Mon tout premier code. Ne cliquez pas. Vraiment. 🚨</b></p>
+<p align="center"><i>Tout au fond de la mine, j'ai retrouvé mon tout premier code…</i></p>
 
 <details>
-<summary><b>👁️ Bon ok… cliquer à vos risques et périls</b></summary>
+<summary align="center"><b>🔦 Descendre dans la grotte (à vos risques et périls)</b></summary>
 
 <br>
 
 ```js
-// fichier: final_final_V3_vraiment_final.js
-// ne pas toucher sinon tout casse (je sais pas pourquoi)
+// coffre_trouve_niveau_-64.js
+// ⚠️ ne pas casser ce bloc, tout le monde s'effondre
 
 var a = true
 if (a == true) {
   if (a != false) {
     if (!!a === !!!false) {
-      console.log("ça marche ???")   // ça marche pas
-      setTimeout(() => { location.reload() }, 0)   // la boucle infinie
+      console.log("ça marche ???")            // non.
+      setTimeout(() => location.reload(), 0)  // boucle infinie, comme un spawner
     }
   }
 }
-// TODO: comprendre ce que j'ai écrit
+// TODO : comprendre ce que j'ai écrit
 ```
 
 <p align="center">
-  <img src="./assets/protege-tes-yeux.jpg" width="320" alt="On cache les yeux du chat devant ce code" />
+  <img src="./assets/protege-tes-yeux.jpg" width="300" alt="chat protégé" />
 </p>
 
-<p align="center"><i>Même le chat n'a pas eu le droit de voir ça. Le support moral était nécessaire.</i></p>
+<p align="center"><b>Le chat a perdu 3 cœurs rien qu'en l'apercevant. Il a fallu lui cacher les yeux. 🙈</b></p>
 
 </details>
 
 ---
 
-## 🏆 Succès débloqués
+<h2 align="center">🏆 PROGRÈS DÉBLOQUÉS</h2>
 
-| 🥇 | Succès | Description |
-|:---:|:---|:---|
-| 🐛 | **Exterminatrice** | A corrigé un bug sans savoir comment |
-| 🌙 | **Créature de la nuit** | A codé jusqu'à 3h du mat |
-| 🎬 | **Réalisatrice IA** | A généré des vidéos cinématiques avec l'IA |
-| 📊 | **Présentation.js** | A codé une présentation au lieu de l'ouvrir dans PowerPoint |
-| 🔒 | **???** | Succès secret… à débloquer |
+<table align="center">
+<tr><td>🐛</td><td><b>Exterminatrice</b><br><sub>Corriger un bug sans comprendre comment</sub></td></tr>
+<tr><td>🌙</td><td><b>Pas besoin de lit</b><br><sub>Coder jusqu'à 3h du mat</sub></td></tr>
+<tr><td>🎬</td><td><b>Réalisatrice IA</b><br><sub>Générer des vidéos cinématiques avec l'IA</sub></td></tr>
+<tr><td>📊</td><td><b>Craft improbable</b><br><sub>Fabriquer une présentation en JavaScript au lieu de PowerPoint</sub></td></tr>
+<tr><td>🔒</td><td><b>???</b><br><sub>Progrès secret… continue de jouer</sub></td></tr>
+</table>
 
 ---
 
-## 💬 Rejoindre la partie
+<h2 align="center">💬 REJOINDRE MON SERVEUR</h2>
 
 <p align="center">
-  <a href="mailto:TON_EMAIL"><img src="https://img.shields.io/badge/📨_Envoyer_un_message-ff4fa3?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/TON_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-c026d3?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:TON_EMAIL"><img src="https://img.shields.io/badge/📨_Envoyer_un_message-7ec850?style=for-the-badge&labelColor=3d6b1f" /></a>
+  <a href="https://www.linkedin.com/in/TON_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-f9a8d4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=9d174d" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4fa3,50:9d174d,100:1a0b2e&height=110&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6b4423,50:8b5a2b,100:6b4423&height=70&section=footer&text=💾%20Sauvegarde%20du%20monde...%20terminée&fontSize=20&fontColor=ffd6ec&fontAlignY=55" width="100%" />
 </p>
-
-<p align="center"><b>💾 PARTIE SAUVEGARDÉE. À BIENTÔT, PLAYER 2 💖</b></p>
