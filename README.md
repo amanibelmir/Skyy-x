@@ -4,13 +4,13 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=F4A6C8&center=true&vCenter=true&width=640&height=60&lines=Salut%2C+moi+c'est+Amani+%F0%9F%8C%B8;Je+code+bloc+par+bloc+%E2%9B%8F%EF%B8%8F;Achievement+get+%3A+Hello+World!" alt="Salut, moi c'est Amani"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=F4A6C8&center=true&vCenter=true&width=640&height=60&lines=Salut%2C+moi+c'est+Skyy+%F0%9F%8C%B8;Je+code+bloc+par+bloc+%E2%9B%8F%EF%B8%8F;Achievement+get+%3A+Hello+World!" alt="Salut, moi c'est Amani"/>
 
 <sub>développeuse · builder de petits mondes · fan de pixels et de cerisiers</sub>
 
 <br/><br/>
 
-<a href="mailto:TON_EMAIL"><img src="https://img.shields.io/badge/Email-F4A6C8?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:amanibelmir@gmail.com"><img src="https://img.shields.io/badge/Email-F4A6C8?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/TON_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-D97BA6?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://TON_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-7FB069?style=flat-square&logo=minecraft&logoColor=white"/></a>
 
@@ -21,7 +21,7 @@
 ### 🌸 &nbsp;À propos
 
 ```yaml
-joueuse:   Amani
+joueuse:   Skyy
 classe:    Développeuse web
 biome:     Cherry Grove 🌸
 quête:     transformer des idées en sites qui donnent envie de cliquer
