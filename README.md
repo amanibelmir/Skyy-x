@@ -70,6 +70,41 @@ Exos concrets (logs serveur, petits scripts) pour monter de niveau.
 
 ---
 
+## ⚠️ ZONE INTERDITE
+
+<p align="center"><b>🚨 Mon tout premier code. Ne cliquez pas. Vraiment. 🚨</b></p>
+
+<details>
+<summary><b>👁️ Bon ok… cliquer à vos risques et périls</b></summary>
+
+<br>
+
+```js
+// fichier: final_final_V3_vraiment_final.js
+// ne pas toucher sinon tout casse (je sais pas pourquoi)
+
+var a = true
+if (a == true) {
+  if (a != false) {
+    if (!!a === !!!false) {
+      console.log("ça marche ???")   // ça marche pas
+      setTimeout(() => { location.reload() }, 0)   // la boucle infinie
+    }
+  }
+}
+// TODO: comprendre ce que j'ai écrit
+```
+
+<p align="center">
+  <img src="./assets/protege-tes-yeux.jpg" width="320" alt="On cache les yeux du chat devant ce code" />
+</p>
+
+<p align="center"><i>Même le chat n'a pas eu le droit de voir ça. Le support moral était nécessaire.</i></p>
+
+</details>
+
+---
+
 ## 🏆 Succès débloqués
 
 | 🥇 | Succès | Description |
