@@ -1,22 +1,61 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=F4A6C8&center=true&vCenter=true&width=600&height=60&lines=Salut%2C+moi+c'est+Amani+%F0%9F%8C%B8;Je+code+bloc+par+bloc+%E2%9B%8F%EF%B8%8F" alt="Salut, moi c'est Amani"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=F4A6C8" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=F4A6C8&center=true&vCenter=true&width=640&height=60&lines=Salut%2C+moi+c'est+Amani+%F0%9F%8C%B8;Je+code+bloc+par+bloc+%E2%9B%8F%EF%B8%8F;Achievement+get+%3A+Hello+World!" alt="Salut, moi c'est Amani"/>
+
+<sub>développeuse · builder de petits mondes · fan de pixels et de cerisiers</sub>
+
+<br/><br/>
+
+<a href="mailto:TON_EMAIL"><img src="https://img.shields.io/badge/Email-F4A6C8?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/TON_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-D97BA6?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://TON_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-7FB069?style=flat-square&logo=minecraft&logoColor=white"/></a>
 
 </div>
 
-### 🌸 À propos
+<br/>
 
-- ⛏️ Développeuse, je construis des sites et des apps
-- 🌱 En train d'apprendre : …
-- 💌 Me contacter : TON_EMAIL
+### 🌸 &nbsp;À propos
 
-### 🎒 Inventaire
+```yaml
+joueuse:   Amani
+classe:    Développeuse web
+biome:     Cherry Grove 🌸
+quête:     transformer des idées en sites qui donnent envie de cliquer
+apprend:   …
+```
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,figma" />
+### 🎒 &nbsp;Inventaire
 
-### 🗺️ Mes mondes
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,figma&perline=9" />
 
-- 🌸 [Taskora](https://github.com/TON_USERNAME/Taskora) : gestionnaire de tâches
-- 🟩 [Portfolio Minecraft](https://github.com/TON_USERNAME/Portfolio-Minecraft) : mon portfolio en pixel art
-- ⛵ [Site Voiles](https://github.com/TON_USERNAME/site-voiles) : site vitrine sur la voile
-- 🚗 [Voiture autonome](https://github.com/TON_USERNAME/Autonomous_car_TP) : simulateur de conduite autonome
+### 🗺️ &nbsp;Mes mondes
+
+| | Monde | Description |
+|:-:|:--|:--|
+| 🌸 | [**Taskora**](https://github.com/TON_USERNAME/Taskora) | Gestionnaire de tâches |
+| 🟩 | [**Portfolio Minecraft**](https://github.com/TON_USERNAME/Portfolio-Minecraft) | Mon portfolio en pixel art |
+| ⛵ | [**Site Voiles**](https://github.com/TON_USERNAME/site-voiles) | Site vitrine sur la voile |
+| 🚗 | [**Voiture autonome**](https://github.com/TON_USERNAME/Autonomous_car_TP) | Simulateur de conduite autonome |
+
+### 💎 &nbsp;Statistiques
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=D97BA6&icon_color=7FB069&ring_color=F4A6C8" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=D97BA6" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub>🌸 &nbsp;« chaque grand monde commence par un seul bloc » &nbsp;🌸</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=F4A6C8" width="100%"/>
+
+</div>
