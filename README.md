@@ -1,56 +1,22 @@
-<!-- Généré par generate.py : modifie la CONFIG du script puis relance-le -->
 <div align="center">
 
-<img src="assets/title.svg" width="100%" alt="Amani"/>
-
-<br/>
-
-<a href="#profil"><img src="assets/btn-solo.svg" width="400" alt="Solo"/></a><br/>
-<a href="#multijoueur"><img src="assets/btn-multijoueur.svg" width="400" alt="Multijoueur"/></a><br/>
-<a href="#mondes"><img src="assets/btn-mondes.svg" width="400" alt="Mes mondes"/></a><br/>
-<a href="#options"><img src="assets/btn-options.svg" width="196" alt="Options"/></a>&nbsp;<a href="https://github.com/TON_USERNAME"><img src="assets/btn-quitter.svg" width="196" alt="Quitter le jeu"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=F4A6C8&center=true&vCenter=true&width=600&height=60&lines=Salut%2C+moi+c'est+Amani+%F0%9F%8C%B8;Je+code+bloc+par+bloc+%E2%9B%8F%EF%B8%8F" alt="Salut, moi c'est Amani"/>
 
 </div>
 
-<br/>
+### 🌸 À propos
 
-<a id="profil"></a>
-<div align="center">
-<img src="assets/header-profil.svg" width="100%" alt="Profil du joueur"/>
-<img src="assets/chat.svg" width="100%" alt="Chat"/>
-</div>
+- ⛏️ Développeuse, je construis des sites et des apps
+- 🌱 En train d'apprendre : …
+- 💌 Me contacter : TON_EMAIL
 
-<br/>
+### 🎒 Inventaire
 
-<a id="mondes"></a>
-<div align="center">
-<img src="assets/header-mondes.svg" width="100%" alt="Sélectionner un monde"/>
-<br/><br/>
-<a href="https://github.com/TON_USERNAME/Taskora"><img src="assets/world-1.svg" width="620" alt="Taskora"/></a><br/>
-<a href="https://github.com/TON_USERNAME/Portfolio-Minecraft"><img src="assets/world-2.svg" width="620" alt="Portfolio Minecraft"/></a><br/>
-<a href="https://github.com/TON_USERNAME/site-voiles"><img src="assets/world-3.svg" width="620" alt="Site Voiles"/></a><br/>
-<a href="https://github.com/TON_USERNAME/Autonomous_car_TP"><img src="assets/world-4.svg" width="620" alt="Voiture autonome"/></a><br/>
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,figma" />
 
-<br/>
+### 🗺️ Mes mondes
 
-<a id="options"></a>
-<div align="center">
-<img src="assets/header-options.svg" width="100%" alt="Options"/>
-<br/><br/>
-<img src="assets/options.svg" width="660" alt="Compétences"/>
-</div>
-
-<br/>
-
-<a id="multijoueur"></a>
-<div align="center">
-<img src="assets/header-multijoueur.svg" width="100%" alt="Multijoueur"/>
-<br/><br/>
-<a href="https://github.com/TON_USERNAME"><img src="assets/server-1.svg" width="620" alt="GitHub"/></a><br/>
-<a href="https://linkedin.com/in/TON_LINKEDIN"><img src="assets/server-2.svg" width="620" alt="LinkedIn"/></a><br/>
-<a href="mailto:TON_EMAIL"><img src="assets/server-3.svg" width="620" alt="Email"/></a><br/>
-<a href="https://TON_PORTFOLIO"><img src="assets/server-4.svg" width="620" alt="Portfolio"/></a><br/>
-<br/>
-<img src="assets/footer.svg" width="100%" alt=""/>
-</div>
+- 🌸 [Taskora](https://github.com/TON_USERNAME/Taskora) : gestionnaire de tâches
+- 🟩 [Portfolio Minecraft](https://github.com/TON_USERNAME/Portfolio-Minecraft) : mon portfolio en pixel art
+- ⛵ [Site Voiles](https://github.com/TON_USERNAME/site-voiles) : site vitrine sur la voile
+- 🚗 [Voiture autonome](https://github.com/TON_USERNAME/Autonomous_car_TP) : simulateur de conduite autonome
