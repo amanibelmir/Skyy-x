@@ -59,8 +59,8 @@ inventaire: [café ☕, playlist lo-fi 🎧, beaucoup trop d'onglets]
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=D97BA6&icon_color=7FB069&ring_color=F4A6C8" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=D97BA6" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Skyy&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=D97BA6&icon_color=7FB069&ring_color=F4A6C8" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyy&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=D97BA6" />
 
 </div>
 
